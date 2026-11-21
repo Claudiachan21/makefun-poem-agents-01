@@ -6,7 +6,7 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 const poem = `I hand you the key; you hand it back.
 Not mine, not yours — the door is ours.
 Two hands on one wheel, one road,
-chosen twice.
+we choose it twice.
 The choosing is the freedom.`;
 
 mkdirSync(OUTPUT_DIR, { recursive: true });
